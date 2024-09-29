@@ -1,0 +1,188 @@
+	
+<!DOCTYPE html>
+
+<!--[if IEMobile 7]>
+<html class="iem7"  lang="en" dir="ltr">
+<![endif]-->
+
+<!--[if lte IE 6]>
+<html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr">
+<![endif]-->
+
+<!--[if (IE 7)&(!IEMobile)]>
+<html class="lt-ie9 lt-ie8"  lang="en" dir="ltr">
+<![endif]-->
+
+<!--[if IE 8]>
+<html class="lt-ie9"  lang="en" dir="ltr">
+<![endif]-->
+
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!-->
+<html  lang="en" dir="ltr" prefix="fb: http://www.facebook.com/2008/fbml og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<!--<![endif]-->
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge, chrome=1" />
+  <meta charset="utf-8" />
+  <link rel="shortcut icon" href="/idp/images/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Online Services | Sonoma State University</title>
+  <meta name="MobileOptimized" content="width" />
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="viewport" content="width=device-width" />
+  <meta http-equiv="cleartype" content="on" />
+  <link rel="stylesheet" type="text/css" href="/idp/css/styles_add.css" />
+  <link rel="stylesheet" type="text/css" href="/idp/css/max-styles2.css" />
+  <link rel="stylesheet" type="text/css" href="/idp/css/ssu-styles.css" />
+  <link rel="stylesheet" type="text/css" href="/idp/css/login.css" />
+  <script src="/idp/js/analytics.js"></script>
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-17 node-type-page section-portal-login">
+  <div id="page">
+    <div class="upper-wrapper">
+
+      <header id="header" role="banner">
+        <div class="header__region region region-header">
+          <div id="block-bean-header-logo-block" class="block block-bean header-logo-block first odd">
+            <div class="entity entity-bean bean-simple-block clearfix" about="/block/header-logo-block" typeof="">
+              <div class="content">
+                <div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
+                  <div class="field-items">
+                    <div class="field-item even">
+                      <div>
+<!--                        <a href="https://www.sonoma.edu/" onclick="ga('send','event','navbar','click','homepage');"><img alt="Sonoma State University" height="101" src="/idp/images/header-logo.png" width="225" /></a>-->
+                          <a href="https://www.sonoma.edu/"><img alt="Sonoma State University" src="/idp/images/ssu_full_logo_centered-wht.svg" /></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+
+
+      <div id="main">
+        <div id="highlighted" class="clearfix"></div><!-- /#highlighted -->
+          <div class="main-content-wrapper">
+            <div class="inner-wrapper">
+              <div id="content" class="column" role="main">
+                <a id="main-content"></a>
+                <h1 class="title" id="page-title">Online Services</h1><!-- Page Title -->
+                <article class="node-17 node node-page view-mode-full clearfix" about="/portal-login" typeof="foaf:Document">
+                <header>
+                  <span property="dc:title" content="Portal Login" class="rdf-meta element-hidden"></span>
+                  <span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+                </header>
+
+                <div id="main-content-body">
+
+                  <div align="center"> <!-- Login Form -->
+  <div class="errors"><p>You may be seeing this page because you used the Back button while browsing a secure web site or application. Alternatively, you may have mistakenly bookmarked the web login form instead of the actual web site you wanted to bookmark or used a link created by somebody else who made the same mistake.</p> <br/> <p>Left unchecked, this can cause errors on some browsers or result in you returning to the web site you tried to leave, so this page is presented instead.</p></div>
+
+                      <p><a href="https://ldaps.sonoma.edu/portal/" tabindex="4" class="button">Click here to get back to the SSU Online Services Portal</a></p>
+                      <div class="field login-note">
+                          <p>
+                              <h2>Need Help? </h2>Please contact the SSU IT Help Desk at (707)664-4357 or <a href="mailto:helpdesk@sonoma.edu">email helpdesk@sonoma.edu</a>.
+                          </p>
+                      </div>
+                  </div> <!-- /Login Form -->
+
+                </div> <!-- /#main-content-body -->
+
+
+              </article><!-- /.node -->
+            </div><!-- /#content -->
+          </div>
+        </div><!-- /.main-content-wrapper -->
+      <div id="sub-content" class="clearfix"></div><!-- /#sub-content -->
+    </div><!-- /#main -->
+  </div><!-- /.upper-wrapper -->
+
+  <div id="footer-container" class="footer-outer-wrapper">
+    <footer id="footer" class="region region-footer">
+      <!-- Social Icons -->
+      <div id="block-bean-footer-social-links" class="block block-bean footer-social-links-block first odd">
+        <div class="entity clearfix" about="/block/footer-social-links" typeof="">
+          <div class="content">
+            <div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
+              <div class="field-items">
+                <div class="field-item even"><ul class="social-links"><li><a class="facebook" href="https://www.facebook.com/sonomastateuniversity" target="_blank">SSU Facebook</a></li>
+                  <li><a class="twitter" href="https://twitter.com/ssu_1961" target="_blank">SSU Twitter</a></li>
+                  <li><a class="instagram" href="https://instagram.com/sonomastateuniversity" target="_blank">SSU Instagram</a></li>
+                  <li><a class="youtube" href="https://www.youtube.com/csusonoma/" target="_blank">SSU Youtube</a></li>
+                  <li><a class="rss" href="http://news.sonoma.edu/rss.xml" target="_blank">SSU News RSS</a></li>
+                </ul></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> <!-- End Social Icons -->
+
+      <!-- SSU Logo -->
+      <div id="block-bean-footer-logo" class="block block-bean footer-logo-block even">
+        <div class="entity entity-bean bean-simple-block clearfix" about="/block/footer-logo" typeof="">
+          <div class="content">
+            <div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
+              <div class="field-items">
+                <div class="field-item even">
+                  <div>
+                    <a href="http://www.sonoma.edu"><img alt="Sonoma State University" src="/idp/images/ssu_full_logo_centered-wht.svg" width="143" /></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> <!-- End SSU Logo -->
+
+      <!-- Address Info -->
+      <div id="block-bean-footer-address" class="block block-bean footer-address-block odd">
+        <div class="entity entity-bean bean-simple-block clearfix" about="/block/footer-address" typeof="">
+          <div class="content">
+            <div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
+              <div class="field-items">
+                <div class="field-item even">
+                  <div><p>
+                    1801 East Cotati Ave<br />
+                    Rohnert Park, CA 94928<br />
+                    707.664.2880</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> <!-- End Address Info -->
+
+      <!-- Menu -->
+      <div id="block-menu-menu-footer-left-menu" class="block block-menu footer-menu-block footer-left-menu even" role="navigation">
+        <ul class="menu"><li class="menu__item first"><a href="http://www.sonoma.edu/contact-ssu" class="menu__link">Contact SSU</a></li>
+          <li class="menu__item"><a href="http://www.sonoma.edu/privacy" class="menu__link">Privacy Notice</a></li>
+          <li class="menu__item last"><a href="https://www.calstate.edu/" class="menu__link">California State University</a></li>
+        </ul>
+      </div>
+
+      <div id="block-menu-menu-menu-footer-center-menu" class="block block-menu footer-menu-block footer-center-menu odd" role="navigation">
+        <ul class="menu"><li class="menu__item first"><a href="http://accessibility.sonoma.edu" title="" class="menu__link">Accessibility</a></li>
+          <li class="menu__item"><a href="http://clery.sonoma.edu/safety_plan" title="" class="menu__link">Campus Safety Plan</a></li>
+          <li class="menu__item last"><a href="https://www.sonoma.edu/website-feedback" title="" class="menu__link">Website Feedback</a></li>
+        </ul>
+      </div>
+
+      <div id="block-menu-menu-menu-footer-right-menu" class="block block-menu footer-menu-block footer-right-menu last even" role="navigation">
+        <ul class="menu"><li class="menu__item first"><a href="http://www.sonoma.edu/ps/emergency/" title="" class="menu__link">Emergency Information</a></li>
+          <li class="menu__item"><a href="http://www.sonoma.edu/employment" title="" class="menu__link">Jobs</a></li>
+          <li class="menu__item last"><a href="http://titleix.sonoma.edu/" title="" class="menu__link">Title IX</a></li>
+        </ul>
+      </div>
+
+    </footer>
+  </div>
+
+</div><!-- /#page -->
+
+</body>
+
+</html>
