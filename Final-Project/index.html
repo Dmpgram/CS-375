@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Daniel Earth</title>
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden; /* Prevent scrollbars for Three.js canvas */
+      }
+    </style>
+    <!-- Import the Three.js library and OrbitControls -->
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.131/build/three.module.js",
+          "jsm/": "https://cdn.jsdelivr.net/npm/three@0.131/examples/jsm/"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <!-- Load the main JavaScript file -->
+    <script type="module" src="./index.js"></script>
+  </body>
+</html>
